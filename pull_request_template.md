@@ -1,8 +1,3 @@
-<!--
-Template credits to from https://github.com/hack4impact-uiuc/life-after-hate
-Shoutout to the wonderful LAH team!
--->
-
 ## Status:
 
 <!--
